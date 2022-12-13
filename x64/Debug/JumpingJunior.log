@@ -1,0 +1,19 @@
+﻿  Engine.cpp
+C:\Users\rpras\Documents\JumpingJunior\JumpingJunior\Engine.cpp(35,19): warning C4244: 'initializing': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\rpras\Documents\JumpingJunior\JumpingJunior\Engine.cpp(221,64): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+C:\Users\rpras\Documents\JumpingJunior\JumpingJunior\Engine.cpp(221,40): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+  JumpingJunior.cpp
+  Generating Code...
+  JumpingJunior.vcxproj -> C:\Users\rpras\Documents\JumpingJunior\x64\Debug\JumpingJunior.exe
